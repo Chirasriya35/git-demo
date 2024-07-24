@@ -5,3 +5,10 @@ And the world's gonna know your name (yeah)
 
 Cause there gonna be a day when you're
 Standing in the hall of fame (yeah)
+<<<<<<< HEAD
+=======
+
+some content
+and here
+--------------
+>>>>>>> parent of b6c3a10 (first tag)
